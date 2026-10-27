@@ -11,7 +11,7 @@ Live Demo: [https://syahrulhabib-porto.vercel.app](https://syahrulhabib-porto.ve
 - **Name:** Syahrul Al Habib
 - **Role:** Software Engineer
 - **Specialization:** Cloud Computing & Cybersecurity
-- **Education:** Bachelor of Informatics Engineering, Universitas Muhammadiyah Jakarta (GPA: 3.60 / 4.00)
+- **Education:** Bachelor of Informatics Engineering, Muhammadiyah University of Jakarta (GPA: 3.60 / 4.00)
 - **Cohort:** Bangkit Academy 2024 — Cloud Computing Cohort (by Google, GoTo, Traveloka)
 - **Credentials:** 18 Verified Professional Certifications & Badges (Google Cloud, Coursera, Dicoding)
 
@@ -23,8 +23,8 @@ Live Demo: [https://syahrulhabib-porto.vercel.app](https://syahrulhabib-porto.ve
 |---|---|
 | **Cloud & Infrastructure** | Google Cloud Platform (GCP), Cloud Run, Compute Engine, App Engine, Cloud Storage, Linux System Administration, Cloud Architecture |
 | **Cybersecurity & Defense** | Network Security, Kali Linux, Nmap Reconnaissance, Ethical Hacking, CTF Competitions (GEMASTIK XVII & XVIII), Traffic Analysis, Threat Mitigation (MITM, DoS/DDoS) |
-| **Full-Stack Engineering** | Python, JavaScript (ES6+), React.js, Node.js, Express.js, RESTful APIs, Tailwind CSS, Playwright E2E Testing |
-| **Data & Workflow Automation** | Firebase Realtime Database, SQL, Granular Role-Based Access Control (RBAC), n8n Automation, Google Gemini AI Integration |
+| **Full-Stack Engineering** | Python, JavaScript (ES6+), React.js, Node.js, Express.js, RESTful APIs, Tailwind CSS |
+| **Data & Workflow Automation** | Firebase Realtime Database, SQL, Granular Role-Based Access Control (RBAC), n8n Automation |
 
 ---
 
@@ -32,15 +32,15 @@ Live Demo: [https://syahrulhabib-porto.vercel.app](https://syahrulhabib-porto.ve
 
 ### 1. SIMP — Project Management Information System
 - **Category:** Final Undergraduate Thesis
-- **Stack:** Firebase, n8n, RBAC, Waterfall Methodology, JavaScript
+- **Stack:** Firebase, n8n, RBAC, JavaScript
 - **Live URL:** [https://simp-rul.vercel.app/](https://simp-rul.vercel.app/)
-- **Summary:** Web-based PMIS engineered using the Waterfall software methodology. Implements real-time Firebase synchronization, automated task triggers via n8n, and granular Role-Based Access Control for Project Managers, Team Members, and Viewers.
+- **Summary:** Web-based PMIS featuring real-time Firebase synchronization, automated task triggers via n8n, and granular Role-Based Access Control for Project Managers, Team Members, and Viewers.
 
 ### 2. PocketPlan — Personal Finance Platform
 - **Category:** Personal Project
-- **Stack:** React, Node.js, Express, Firebase, Google Gemini AI, Playwright
+- **Stack:** React, Node.js, Express, Firebase
 - **Live URL:** [https://pocketplan.ai.id](https://pocketplan.ai.id)
-- **Summary:** Full-stack personal finance web application integrated with a two-way Telegram bot. Powered by Google Gemini AI for automated receipt OCR scanning and natural language expense logging. Covered by 40+ automated test suites and deployed to Vercel via Cloudflare.
+- **Summary:** Full-stack personal finance web application integrated with a two-way Telegram bot for automated receipt OCR scanning and natural language expense logging. Covered by automated test suites and deployed to Vercel via Cloudflare.
 
 ### 3. Paperink Official — Corporate Merchandise Platform
 - **Category:** Commercial Client Project
@@ -92,8 +92,8 @@ Live Demo: [https://syahrulhabib-porto.vercel.app](https://syahrulhabib-porto.ve
 
 ## Experience
 
-- **Laboratory Assistant — Network Security**, Universitas Muhammadiyah Jakarta (Oct 2025 – Jan 2026)
-- **UI Designer Intern**, PT Astra Daihatsu Motor — Corporate Sustainability Division (Jul – Sep 2025)
+- **Laboratory Assistant — Network Security**, Muhammadiyah University of Jakarta (Oct 2025 – Jan 2026)
+- **Software Designer**, PT Astra Daihatsu Motor — Corporate Sustainability Division (Jul – Sep 2025)
 - **Cloud Computing Mentor**, Informatics Bootcamp 2025 (Mar – May 2025)
 - **Cyber Security Member & CTF Competitor**, CoreIT — GEMASTIK XVII & XVIII (2022 – 2025)
 
