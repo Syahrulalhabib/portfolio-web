@@ -92,7 +92,7 @@ Live Demo: [https://syahrulhabib-porto.vercel.app](https://syahrulhabib-porto.ve
 
 ## Experience
 
-- **Laboratory Assistant — Network Security**, Muhammadiyah University of Jakarta (Oct 2025 – Jan 2026)
+- **Laboratory Assistant — Network Security**, Muhammadiyah University of Jakarta (Nov 2025 – Jan 2026)
 - **Software Designer**, PT Astra Daihatsu Motor — Corporate Sustainability Division (Jul – Sep 2025)
 - **Cloud Computing Mentor**, Informatics Bootcamp 2025 (Mar – May 2025)
 - **Cyber Security Member & CTF Competitor**, CoreIT — GEMASTIK XVII & XVIII (2022 – 2025)

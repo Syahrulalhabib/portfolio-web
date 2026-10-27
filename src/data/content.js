@@ -73,7 +73,7 @@ export const projects = [
 
 export const experiences = [
   {
-    date: 'Oct 2025 – Jan 2026',
+    date: 'Nov 2025 – Jan 2026',
     role: 'Laboratory Assistant — Network Security',
     org: 'Muhammadiyah University of Jakarta',
     description: 'Authored and standardized 5 comprehensive cybersecurity practical modules covering ethical hacking, encryption, and network analysis. Led hands-on practical sessions for 16 students using Kali Linux and Nmap for network reconnaissance, traffic analysis, and simulated attacks (MITM, DoS/DDoS).',
