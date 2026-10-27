@@ -5,6 +5,7 @@ export const profile = {
   email: 'syahrulalhabib@gmail.com',
   linkedin: 'https://www.linkedin.com/in/syahrulalhabib',
   github: 'https://github.com/Syahrulalhabib',
+  cv: '/credentials/Curricculum%20Vitae%20New%20English.pdf',
   gpa: '3.60 / 4.00',
   university: 'Muhammadiyah University of Jakarta',
   major: 'Informatics Engineering',

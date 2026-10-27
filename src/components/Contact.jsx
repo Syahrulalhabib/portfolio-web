@@ -16,8 +16,24 @@ export default function Contact() {
           Interested in collaborating, hiring, or discussing cloud &amp; cybersecurity architectures? Feel free to reach out.
         </p>
 
-        {/* 3 Harmonious Action Buttons */}
+        {/* 4 Harmonious Action Buttons */}
         <div className="flex flex-wrap gap-3.5 justify-center items-center">
+          {/* CV Download */}
+          <a
+            href={profile.cv}
+            download
+            className="inline-flex items-center gap-2.5 px-5 py-3 bg-white dark:bg-[#16181D] border border-[#e5e7eb] dark:border-[#2E3238] rounded-xl text-sm font-semibold text-[#111] dark:text-white transition-all duration-200 hover:-translate-y-0.5 hover:border-[#999] dark:hover:border-[#4B5563] hover:shadow-sm cursor-pointer"
+          >
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+              <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z" />
+              <polyline points="14 2 14 8 20 8" />
+              <line x1="16" y1="13" x2="8" y2="13" />
+              <line x1="16" y1="17" x2="8" y2="17" />
+              <polyline points="10 9 9 9 8 9" />
+            </svg>
+            <span>CV</span>
+          </a>
+
           {/* Gmail */}
           <a
             href={`mailto:${profile.email}`}

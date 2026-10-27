@@ -22,10 +22,16 @@ export default function Hero() {
               View Projects
             </a>
             <a
-              href="#contact"
-              className="px-6 py-3 border border-[#e5e7eb] dark:border-[#2E3238] text-[#111] dark:text-white rounded-lg font-semibold text-sm transition-all duration-200 hover:border-[#999] dark:hover:border-[#9CA3AF] cursor-pointer"
+              href={profile.cv}
+              download
+              className="px-6 py-3 border border-[#e5e7eb] dark:border-[#2E3238] text-[#111] dark:text-white rounded-lg font-semibold text-sm transition-all duration-200 hover:border-[#999] dark:hover:border-[#9CA3AF] cursor-pointer inline-flex items-center gap-2"
             >
-              Contact Me
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" />
+                <polyline points="7 10 12 15 17 10" />
+                <line x1="12" y1="15" x2="12" y2="3" />
+              </svg>
+              <span>Download CV</span>
             </a>
           </div>
         </div>
