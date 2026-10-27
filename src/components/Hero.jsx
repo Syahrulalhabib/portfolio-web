@@ -60,10 +60,7 @@ export default function Hero() {
                   <span className="text-[#9CA3AF]">"Cloud"</span>, <span className="text-[#9CA3AF]">"Security"</span>],
                 </p>
                 <p>
-                  <span className="text-sky-300">"education"</span>: <span className="text-[#9CA3AF]">"Univ. Muhammadiyah Jakarta"</span>,
-                </p>
-                <p>
-                  <span className="text-sky-300">"gpa"</span>: <span className="text-amber-300">"3.60 / 4.00"</span>,
+                  <span className="text-sky-300">"education"</span>: <span className="text-[#9CA3AF]">"Universitas Muhammadiyah Jakarta"</span>,
                 </p>
                 <p>
                   <span className="text-sky-300">"cohort"</span>: <span className="text-[#9CA3AF]">"Bangkit 2024 (Cloud)"</span>,

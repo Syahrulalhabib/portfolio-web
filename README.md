@@ -11,7 +11,7 @@ Live Demo: [https://syahrulhabib-porto.vercel.app](https://syahrulhabib-porto.ve
 - **Name:** Syahrul Al Habib
 - **Role:** Software Engineer
 - **Specialization:** Cloud Computing & Cybersecurity
-- **Education:** Bachelor of Informatics Engineering, Muhammadiyah University of Jakarta (GPA: 3.60 / 4.00)
+- **Education:** Bachelor of Informatics Engineering, Universitas Muhammadiyah Jakarta (GPA: 3.60 / 4.00)
 - **Cohort:** Bangkit Academy 2024 — Cloud Computing Cohort (by Google, GoTo, Traveloka)
 - **Credentials:** 18 Verified Professional Certifications & Badges (Google Cloud, Coursera, Dicoding)
 
@@ -92,7 +92,7 @@ Live Demo: [https://syahrulhabib-porto.vercel.app](https://syahrulhabib-porto.ve
 
 ## Experience
 
-- **Laboratory Assistant — Network Security**, Muhammadiyah University of Jakarta (Oct 2025 – Jan 2026)
+- **Laboratory Assistant — Network Security**, Universitas Muhammadiyah Jakarta (Oct 2025 – Jan 2026)
 - **UI Designer Intern**, PT Astra Daihatsu Motor — Corporate Sustainability Division (Jul – Sep 2025)
 - **Cloud Computing Mentor**, Informatics Bootcamp 2025 (Mar – May 2025)
 - **Cyber Security Member & CTF Competitor**, CoreIT — GEMASTIK XVII & XVIII (2022 – 2025)

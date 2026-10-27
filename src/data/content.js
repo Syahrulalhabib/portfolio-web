@@ -6,7 +6,7 @@ export const profile = {
   linkedin: 'https://www.linkedin.com/in/syahrulalhabib',
   github: 'https://github.com/Syahrulalhabib',
   gpa: '3.60 / 4.00',
-  university: 'Muhammadiyah University of Jakarta',
+  university: 'Universitas Muhammadiyah Jakarta',
   major: 'Informatics Engineering',
   cohort: 'Bangkit Academy 2024 — Cloud Computing',
 }
@@ -75,7 +75,7 @@ export const experiences = [
   {
     date: 'Oct 2025 – Jan 2026',
     role: 'Laboratory Assistant — Network Security',
-    org: 'Muhammadiyah University of Jakarta',
+    org: 'Universitas Muhammadiyah Jakarta',
     description: 'Authored and standardized 5 comprehensive cybersecurity practical modules covering ethical hacking, encryption, and network analysis. Led hands-on practical sessions for 16 students using Kali Linux and Nmap for network reconnaissance, traffic analysis, and simulated attacks (MITM, DoS/DDoS).',
   },
   {
