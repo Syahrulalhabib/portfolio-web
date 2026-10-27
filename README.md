@@ -1,8 +1,8 @@
-# Syahrul Al Habib — Portfolio
+# Syahrul Al Habib – Portfolio
 
 Personal portfolio web application showcasing software engineering, cloud architecture, and cybersecurity projects.
 
-Live Demo: [https://syahrulalhabib.github.io](https://github.com/Syahrulalhabib) (or custom domain)
+Live Demo: [https://syahrulhabib-porto.vercel.app](https://syahrulhabib-porto.vercel.app)
 
 ---
 
