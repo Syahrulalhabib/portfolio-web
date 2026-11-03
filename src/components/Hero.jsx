@@ -59,11 +59,11 @@ export default function Hero() {
 
               <div className="pl-3 border-l-2 border-[#2E3238] space-y-1 text-[11px] sm:text-xs">
                 <p>
-                  <span className="text-sky-300">"role"</span>: <span className="text-[#9CA3AF]">"Software Engineer"</span>,
+                  <span className="text-sky-300">"role"</span>: <span className="text-[#9CA3AF]">"Cloud Engineer"</span>,
                 </p>
                 <p>
                   <span className="text-sky-300">"specialization"</span>: [
-                  <span className="text-[#9CA3AF]">"Cloud"</span>, <span className="text-[#9CA3AF]">"Security"</span>],
+                  <span className="text-[#9CA3AF]">"Cloud Infrastructure"</span>, <span className="text-[#9CA3AF]">"Automation"</span>, <span className="text-[#9CA3AF]">"Security"</span>],
                 </p>
                 <p>
                   <span className="text-sky-300">"education"</span>: <span className="text-[#9CA3AF]">"Muhammadiyah University of Jakarta"</span>,
