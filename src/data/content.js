@@ -80,13 +80,13 @@ export const experiences = [
     description: 'Authored and standardized 5 laboratory practice modules covering ethical penetration testing, data encryption, protocol analysis, and network defense. Led interactive hands-on lab sessions for 16 students using Kali Linux, Nmap, and Wireshark for traffic inspection, vulnerability mapping, and attack simulations (MITM, packet injection, DoS/DDoS).',
   },
   {
-    date: 'Jul – Sep 2025',
+    date: 'Jul 2025 – Sep 2025',
     role: 'Software Designer Intern',
     org: 'PT Astra Daihatsu Motor — Corporate Sustainability Division',
     description: 'Architected operational digitalization workflows and system interfaces to automate manual processes within the Corporate Sustainability Division. Developed interactive Power BI analytical dashboards to process, visualize, and track real-time operational KPIs, collaborating directly with enterprise stakeholders.',
   },
   {
-    date: 'Mar – May 2025',
+    date: 'Mar 2025 – May 2025',
     role: 'Cloud Computing Mentor',
     org: 'Informatics Bootcamp 2025',
     description: 'Delivered structured instruction on cloud computing architectures covering IaaS, PaaS, and SaaS models. Facilitated hands-on deployment sessions on Google Cloud Platform focusing on Compute Engine, App Engine, and Cloud Run, providing ongoing technical evaluation and career mentoring.',
