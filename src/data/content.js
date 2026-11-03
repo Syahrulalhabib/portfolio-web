@@ -99,7 +99,7 @@ export const experiences = [
   },
   {
     date: '2024 – 2025',
-    role: 'National Finalist — Cyber Security Division',
+    role: 'National Competitor — Cyber Security Division',
     org: 'GEMASTIK XVII & XVIII — Kemendikbudristek',
     description: 'Represented the university at the national technology competition (GEMASTIK) in the Cyber Security division, executing penetration testing, web vulnerability exploitation, and digital forensics under strict real-time constraints.',
   },
